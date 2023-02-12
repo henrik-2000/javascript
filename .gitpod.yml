@@ -1,0 +1,8 @@
+
+vscode:
+  extensions:
+    - ecmel.vscode-html-css jjjjjjj
+    - formulahendry.auto-close-tag
+    - esbenp.prettier-vscode   
+    - ms-python.python
+    - usernamehw.errorlens
